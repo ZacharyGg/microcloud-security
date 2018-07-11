@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="microcloud-security-app" />
+        <module name="microcloud-security-browser" />
+        <module name="microcloud-security-client" />
+        <module name="microcloud-security-core" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="microcloud-security" target="1.8" />
+      <module name="microcloud-security-app" target="1.8" />
+      <module name="microcloud-security-browser" target="1.8" />
+      <module name="microcloud-security-client" target="1.8" />
+      <module name="microcloud-security-core" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
