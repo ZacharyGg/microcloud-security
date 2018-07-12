@@ -1,0 +1,462 @@
+Index: microcloud-security/.idea/libraries/Maven__org_eclipse_jetty_jetty_http_9_4_6_v20170531.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- microcloud-security/.idea/libraries/Maven__org_eclipse_jetty_jetty_http_9_4_6_v20170531.xml	(revision )
++++ microcloud-security/.idea/libraries/Maven__org_eclipse_jetty_jetty_http_9_4_6_v20170531.xml	(revision )
+@@ -0,0 +1,13 @@
++<component name="libraryTable">
++  <library name="Maven: org.eclipse.jetty:jetty-http:9.4.6.v20170531">
++    <CLASSES>
++      <root url="jar://C:/JavaPlugin/mavenrepository/org/eclipse/jetty/jetty-http/9.4.6.v20170531/jetty-http-9.4.6.v20170531.jar!/" />
++    </CLASSES>
++    <JAVADOC>
++      <root url="jar://C:/JavaPlugin/mavenrepository/org/eclipse/jetty/jetty-http/9.4.6.v20170531/jetty-http-9.4.6.v20170531-javadoc.jar!/" />
++    </JAVADOC>
++    <SOURCES>
++      <root url="jar://C:/JavaPlugin/mavenrepository/org/eclipse/jetty/jetty-http/9.4.6.v20170531/jetty-http-9.4.6.v20170531-sources.jar!/" />
++    </SOURCES>
++  </library>
++</component>
+\ No newline at end of file
+Index: microcloud-security/.idea/libraries/Maven__javax_servlet_javax_servlet_api_3_1_0.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- microcloud-security/.idea/libraries/Maven__javax_servlet_javax_servlet_api_3_1_0.xml	(revision )
++++ microcloud-security/.idea/libraries/Maven__javax_servlet_javax_servlet_api_3_1_0.xml	(revision )
+@@ -0,0 +1,13 @@
++<component name="libraryTable">
++  <library name="Maven: javax.servlet:javax.servlet-api:3.1.0">
++    <CLASSES>
++      <root url="jar://C:/JavaPlugin/mavenrepository/javax/servlet/javax.servlet-api/3.1.0/javax.servlet-api-3.1.0.jar!/" />
++    </CLASSES>
++    <JAVADOC>
++      <root url="jar://C:/JavaPlugin/mavenrepository/javax/servlet/javax.servlet-api/3.1.0/javax.servlet-api-3.1.0-javadoc.jar!/" />
++    </JAVADOC>
++    <SOURCES>
++      <root url="jar://C:/JavaPlugin/mavenrepository/javax/servlet/javax.servlet-api/3.1.0/javax.servlet-api-3.1.0-sources.jar!/" />
++    </SOURCES>
++  </library>
++</component>
+\ No newline at end of file
+Index: microcloud-security/.idea/libraries/Maven__net_sf_jopt_simple_jopt_simple_5_0_4.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- microcloud-security/.idea/libraries/Maven__net_sf_jopt_simple_jopt_simple_5_0_4.xml	(revision )
++++ microcloud-security/.idea/libraries/Maven__net_sf_jopt_simple_jopt_simple_5_0_4.xml	(revision )
+@@ -0,0 +1,13 @@
++<component name="libraryTable">
++  <library name="Maven: net.sf.jopt-simple:jopt-simple:5.0.4">
++    <CLASSES>
++      <root url="jar://C:/JavaPlugin/mavenrepository/net/sf/jopt-simple/jopt-simple/5.0.4/jopt-simple-5.0.4.jar!/" />
++    </CLASSES>
++    <JAVADOC>
++      <root url="jar://C:/JavaPlugin/mavenrepository/net/sf/jopt-simple/jopt-simple/5.0.4/jopt-simple-5.0.4-javadoc.jar!/" />
++    </JAVADOC>
++    <SOURCES>
++      <root url="jar://C:/JavaPlugin/mavenrepository/net/sf/jopt-simple/jopt-simple/5.0.4/jopt-simple-5.0.4-sources.jar!/" />
++    </SOURCES>
++  </library>
++</component>
+\ No newline at end of file
+Index: microcloud-security/.idea/libraries/Maven__org_eclipse_jetty_jetty_server_9_4_6_v20170531.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- microcloud-security/.idea/libraries/Maven__org_eclipse_jetty_jetty_server_9_4_6_v20170531.xml	(revision )
++++ microcloud-security/.idea/libraries/Maven__org_eclipse_jetty_jetty_server_9_4_6_v20170531.xml	(revision )
+@@ -0,0 +1,13 @@
++<component name="libraryTable">
++  <library name="Maven: org.eclipse.jetty:jetty-server:9.4.6.v20170531">
++    <CLASSES>
++      <root url="jar://C:/JavaPlugin/mavenrepository/org/eclipse/jetty/jetty-server/9.4.6.v20170531/jetty-server-9.4.6.v20170531.jar!/" />
++    </CLASSES>
++    <JAVADOC>
++      <root url="jar://C:/JavaPlugin/mavenrepository/org/eclipse/jetty/jetty-server/9.4.6.v20170531/jetty-server-9.4.6.v20170531-javadoc.jar!/" />
++    </JAVADOC>
++    <SOURCES>
++      <root url="jar://C:/JavaPlugin/mavenrepository/org/eclipse/jetty/jetty-server/9.4.6.v20170531/jetty-server-9.4.6.v20170531-sources.jar!/" />
++    </SOURCES>
++  </library>
++</component>
+\ No newline at end of file
+Index: microcloud-security/.idea/libraries/Maven__org_eclipse_jetty_jetty_webapp_9_4_6_v20170531.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- microcloud-security/.idea/libraries/Maven__org_eclipse_jetty_jetty_webapp_9_4_6_v20170531.xml	(revision )
++++ microcloud-security/.idea/libraries/Maven__org_eclipse_jetty_jetty_webapp_9_4_6_v20170531.xml	(revision )
+@@ -0,0 +1,13 @@
++<component name="libraryTable">
++  <library name="Maven: org.eclipse.jetty:jetty-webapp:9.4.6.v20170531">
++    <CLASSES>
++      <root url="jar://C:/JavaPlugin/mavenrepository/org/eclipse/jetty/jetty-webapp/9.4.6.v20170531/jetty-webapp-9.4.6.v20170531.jar!/" />
++    </CLASSES>
++    <JAVADOC>
++      <root url="jar://C:/JavaPlugin/mavenrepository/org/eclipse/jetty/jetty-webapp/9.4.6.v20170531/jetty-webapp-9.4.6.v20170531-javadoc.jar!/" />
++    </JAVADOC>
++    <SOURCES>
++      <root url="jar://C:/JavaPlugin/mavenrepository/org/eclipse/jetty/jetty-webapp/9.4.6.v20170531/jetty-webapp-9.4.6.v20170531-sources.jar!/" />
++    </SOURCES>
++  </library>
++</component>
+\ No newline at end of file
+Index: microcloud-security/.idea/libraries/Maven__org_eclipse_jetty_jetty_security_9_4_6_v20170531.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- microcloud-security/.idea/libraries/Maven__org_eclipse_jetty_jetty_security_9_4_6_v20170531.xml	(revision )
++++ microcloud-security/.idea/libraries/Maven__org_eclipse_jetty_jetty_security_9_4_6_v20170531.xml	(revision )
+@@ -0,0 +1,13 @@
++<component name="libraryTable">
++  <library name="Maven: org.eclipse.jetty:jetty-security:9.4.6.v20170531">
++    <CLASSES>
++      <root url="jar://C:/JavaPlugin/mavenrepository/org/eclipse/jetty/jetty-security/9.4.6.v20170531/jetty-security-9.4.6.v20170531.jar!/" />
++    </CLASSES>
++    <JAVADOC>
++      <root url="jar://C:/JavaPlugin/mavenrepository/org/eclipse/jetty/jetty-security/9.4.6.v20170531/jetty-security-9.4.6.v20170531-javadoc.jar!/" />
++    </JAVADOC>
++    <SOURCES>
++      <root url="jar://C:/JavaPlugin/mavenrepository/org/eclipse/jetty/jetty-security/9.4.6.v20170531/jetty-security-9.4.6.v20170531-sources.jar!/" />
++    </SOURCES>
++  </library>
++</component>
+\ No newline at end of file
+Index: microcloud-security/.idea/libraries/Maven__org_eclipse_jetty_jetty_util_9_4_6_v20170531.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- microcloud-security/.idea/libraries/Maven__org_eclipse_jetty_jetty_util_9_4_6_v20170531.xml	(revision )
++++ microcloud-security/.idea/libraries/Maven__org_eclipse_jetty_jetty_util_9_4_6_v20170531.xml	(revision )
+@@ -0,0 +1,13 @@
++<component name="libraryTable">
++  <library name="Maven: org.eclipse.jetty:jetty-util:9.4.6.v20170531">
++    <CLASSES>
++      <root url="jar://C:/JavaPlugin/mavenrepository/org/eclipse/jetty/jetty-util/9.4.6.v20170531/jetty-util-9.4.6.v20170531.jar!/" />
++    </CLASSES>
++    <JAVADOC>
++      <root url="jar://C:/JavaPlugin/mavenrepository/org/eclipse/jetty/jetty-util/9.4.6.v20170531/jetty-util-9.4.6.v20170531-javadoc.jar!/" />
++    </JAVADOC>
++    <SOURCES>
++      <root url="jar://C:/JavaPlugin/mavenrepository/org/eclipse/jetty/jetty-util/9.4.6.v20170531/jetty-util-9.4.6.v20170531-sources.jar!/" />
++    </SOURCES>
++  </library>
++</component>
+\ No newline at end of file
+Index: microcloud-security/.idea/libraries/Maven__org_eclipse_jetty_jetty_servlets_9_4_6_v20170531.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- microcloud-security/.idea/libraries/Maven__org_eclipse_jetty_jetty_servlets_9_4_6_v20170531.xml	(revision )
++++ microcloud-security/.idea/libraries/Maven__org_eclipse_jetty_jetty_servlets_9_4_6_v20170531.xml	(revision )
+@@ -0,0 +1,13 @@
++<component name="libraryTable">
++  <library name="Maven: org.eclipse.jetty:jetty-servlets:9.4.6.v20170531">
++    <CLASSES>
++      <root url="jar://C:/JavaPlugin/mavenrepository/org/eclipse/jetty/jetty-servlets/9.4.6.v20170531/jetty-servlets-9.4.6.v20170531.jar!/" />
++    </CLASSES>
++    <JAVADOC>
++      <root url="jar://C:/JavaPlugin/mavenrepository/org/eclipse/jetty/jetty-servlets/9.4.6.v20170531/jetty-servlets-9.4.6.v20170531-javadoc.jar!/" />
++    </JAVADOC>
++    <SOURCES>
++      <root url="jar://C:/JavaPlugin/mavenrepository/org/eclipse/jetty/jetty-servlets/9.4.6.v20170531/jetty-servlets-9.4.6.v20170531-sources.jar!/" />
++    </SOURCES>
++  </library>
++</component>
+\ No newline at end of file
+Index: microcloud-security/.idea/libraries/Maven__org_eclipse_jetty_jetty_xml_9_4_6_v20170531.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- microcloud-security/.idea/libraries/Maven__org_eclipse_jetty_jetty_xml_9_4_6_v20170531.xml	(revision )
++++ microcloud-security/.idea/libraries/Maven__org_eclipse_jetty_jetty_xml_9_4_6_v20170531.xml	(revision )
+@@ -0,0 +1,13 @@
++<component name="libraryTable">
++  <library name="Maven: org.eclipse.jetty:jetty-xml:9.4.6.v20170531">
++    <CLASSES>
++      <root url="jar://C:/JavaPlugin/mavenrepository/org/eclipse/jetty/jetty-xml/9.4.6.v20170531/jetty-xml-9.4.6.v20170531.jar!/" />
++    </CLASSES>
++    <JAVADOC>
++      <root url="jar://C:/JavaPlugin/mavenrepository/org/eclipse/jetty/jetty-xml/9.4.6.v20170531/jetty-xml-9.4.6.v20170531-javadoc.jar!/" />
++    </JAVADOC>
++    <SOURCES>
++      <root url="jar://C:/JavaPlugin/mavenrepository/org/eclipse/jetty/jetty-xml/9.4.6.v20170531/jetty-xml-9.4.6.v20170531-sources.jar!/" />
++    </SOURCES>
++  </library>
++</component>
+\ No newline at end of file
+Index: microcloud-security/.idea/libraries/Maven__org_xmlunit_xmlunit_core_2_5_1.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- microcloud-security/.idea/libraries/Maven__org_xmlunit_xmlunit_core_2_5_1.xml	(revision )
++++ microcloud-security/.idea/libraries/Maven__org_xmlunit_xmlunit_core_2_5_1.xml	(revision )
+@@ -0,0 +1,13 @@
++<component name="libraryTable">
++  <library name="Maven: org.xmlunit:xmlunit-core:2.5.1">
++    <CLASSES>
++      <root url="jar://C:/JavaPlugin/mavenrepository/org/xmlunit/xmlunit-core/2.5.1/xmlunit-core-2.5.1.jar!/" />
++    </CLASSES>
++    <JAVADOC>
++      <root url="jar://C:/JavaPlugin/mavenrepository/org/xmlunit/xmlunit-core/2.5.1/xmlunit-core-2.5.1-javadoc.jar!/" />
++    </JAVADOC>
++    <SOURCES>
++      <root url="jar://C:/JavaPlugin/mavenrepository/org/xmlunit/xmlunit-core/2.5.1/xmlunit-core-2.5.1-sources.jar!/" />
++    </SOURCES>
++  </library>
++</component>
+\ No newline at end of file
+Index: microcloud-security/.idea/libraries/Maven__org_eclipse_jetty_jetty_continuation_9_4_6_v20170531.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- microcloud-security/.idea/libraries/Maven__org_eclipse_jetty_jetty_continuation_9_4_6_v20170531.xml	(revision )
++++ microcloud-security/.idea/libraries/Maven__org_eclipse_jetty_jetty_continuation_9_4_6_v20170531.xml	(revision )
+@@ -0,0 +1,13 @@
++<component name="libraryTable">
++  <library name="Maven: org.eclipse.jetty:jetty-continuation:9.4.6.v20170531">
++    <CLASSES>
++      <root url="jar://C:/JavaPlugin/mavenrepository/org/eclipse/jetty/jetty-continuation/9.4.6.v20170531/jetty-continuation-9.4.6.v20170531.jar!/" />
++    </CLASSES>
++    <JAVADOC>
++      <root url="jar://C:/JavaPlugin/mavenrepository/org/eclipse/jetty/jetty-continuation/9.4.6.v20170531/jetty-continuation-9.4.6.v20170531-javadoc.jar!/" />
++    </JAVADOC>
++    <SOURCES>
++      <root url="jar://C:/JavaPlugin/mavenrepository/org/eclipse/jetty/jetty-continuation/9.4.6.v20170531/jetty-continuation-9.4.6.v20170531-sources.jar!/" />
++    </SOURCES>
++  </library>
++</component>
+\ No newline at end of file
+Index: microcloud-security/.idea/libraries/Maven__org_xmlunit_xmlunit_legacy_2_5_1.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- microcloud-security/.idea/libraries/Maven__org_xmlunit_xmlunit_legacy_2_5_1.xml	(revision )
++++ microcloud-security/.idea/libraries/Maven__org_xmlunit_xmlunit_legacy_2_5_1.xml	(revision )
+@@ -0,0 +1,13 @@
++<component name="libraryTable">
++  <library name="Maven: org.xmlunit:xmlunit-legacy:2.5.1">
++    <CLASSES>
++      <root url="jar://C:/JavaPlugin/mavenrepository/org/xmlunit/xmlunit-legacy/2.5.1/xmlunit-legacy-2.5.1.jar!/" />
++    </CLASSES>
++    <JAVADOC>
++      <root url="jar://C:/JavaPlugin/mavenrepository/org/xmlunit/xmlunit-legacy/2.5.1/xmlunit-legacy-2.5.1-javadoc.jar!/" />
++    </JAVADOC>
++    <SOURCES>
++      <root url="jar://C:/JavaPlugin/mavenrepository/org/xmlunit/xmlunit-legacy/2.5.1/xmlunit-legacy-2.5.1-sources.jar!/" />
++    </SOURCES>
++  </library>
++</component>
+\ No newline at end of file
+Index: microcloud-security/.idea/libraries/Maven__com_flipkart_zjsonpatch_zjsonpatch_0_4_4.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- microcloud-security/.idea/libraries/Maven__com_flipkart_zjsonpatch_zjsonpatch_0_4_4.xml	(revision )
++++ microcloud-security/.idea/libraries/Maven__com_flipkart_zjsonpatch_zjsonpatch_0_4_4.xml	(revision )
+@@ -0,0 +1,13 @@
++<component name="libraryTable">
++  <library name="Maven: com.flipkart.zjsonpatch:zjsonpatch:0.4.4">
++    <CLASSES>
++      <root url="jar://C:/JavaPlugin/mavenrepository/com/flipkart/zjsonpatch/zjsonpatch/0.4.4/zjsonpatch-0.4.4.jar!/" />
++    </CLASSES>
++    <JAVADOC>
++      <root url="jar://C:/JavaPlugin/mavenrepository/com/flipkart/zjsonpatch/zjsonpatch/0.4.4/zjsonpatch-0.4.4-javadoc.jar!/" />
++    </JAVADOC>
++    <SOURCES>
++      <root url="jar://C:/JavaPlugin/mavenrepository/com/flipkart/zjsonpatch/zjsonpatch/0.4.4/zjsonpatch-0.4.4-sources.jar!/" />
++    </SOURCES>
++  </library>
++</component>
+\ No newline at end of file
+Index: microcloud-security/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_4_6.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- microcloud-security/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_4_6.xml	(revision )
++++ microcloud-security/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_4_6.xml	(revision )
+@@ -0,0 +1,13 @@
++<component name="libraryTable">
++  <library name="Maven: org.apache.httpcomponents:httpcore:4.4.6">
++    <CLASSES>
++      <root url="jar://C:/JavaPlugin/mavenrepository/org/apache/httpcomponents/httpcore/4.4.6/httpcore-4.4.6.jar!/" />
++    </CLASSES>
++    <JAVADOC>
++      <root url="jar://C:/JavaPlugin/mavenrepository/org/apache/httpcomponents/httpcore/4.4.6/httpcore-4.4.6-javadoc.jar!/" />
++    </JAVADOC>
++    <SOURCES>
++      <root url="jar://C:/JavaPlugin/mavenrepository/org/apache/httpcomponents/httpcore/4.4.6/httpcore-4.4.6-sources.jar!/" />
++    </SOURCES>
++  </library>
++</component>
+\ No newline at end of file
+Index: microcloud-security/.idea/libraries/Maven__org_eclipse_jetty_jetty_servlet_9_4_6_v20170531.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- microcloud-security/.idea/libraries/Maven__org_eclipse_jetty_jetty_servlet_9_4_6_v20170531.xml	(revision )
++++ microcloud-security/.idea/libraries/Maven__org_eclipse_jetty_jetty_servlet_9_4_6_v20170531.xml	(revision )
+@@ -0,0 +1,13 @@
++<component name="libraryTable">
++  <library name="Maven: org.eclipse.jetty:jetty-servlet:9.4.6.v20170531">
++    <CLASSES>
++      <root url="jar://C:/JavaPlugin/mavenrepository/org/eclipse/jetty/jetty-servlet/9.4.6.v20170531/jetty-servlet-9.4.6.v20170531.jar!/" />
++    </CLASSES>
++    <JAVADOC>
++      <root url="jar://C:/JavaPlugin/mavenrepository/org/eclipse/jetty/jetty-servlet/9.4.6.v20170531/jetty-servlet-9.4.6.v20170531-javadoc.jar!/" />
++    </JAVADOC>
++    <SOURCES>
++      <root url="jar://C:/JavaPlugin/mavenrepository/org/eclipse/jetty/jetty-servlet/9.4.6.v20170531/jetty-servlet-9.4.6.v20170531-sources.jar!/" />
++    </SOURCES>
++  </library>
++</component>
+\ No newline at end of file
+Index: microcloud-security/.idea/libraries/Maven__org_antlr_antlr4_runtime_4_5_1_1.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- microcloud-security/.idea/libraries/Maven__org_antlr_antlr4_runtime_4_5_1_1.xml	(revision )
++++ microcloud-security/.idea/libraries/Maven__org_antlr_antlr4_runtime_4_5_1_1.xml	(revision )
+@@ -0,0 +1,13 @@
++<component name="libraryTable">
++  <library name="Maven: org.antlr:antlr4-runtime:4.5.1-1">
++    <CLASSES>
++      <root url="jar://C:/JavaPlugin/mavenrepository/org/antlr/antlr4-runtime/4.5.1-1/antlr4-runtime-4.5.1-1.jar!/" />
++    </CLASSES>
++    <JAVADOC>
++      <root url="jar://C:/JavaPlugin/mavenrepository/org/antlr/antlr4-runtime/4.5.1-1/antlr4-runtime-4.5.1-1-javadoc.jar!/" />
++    </JAVADOC>
++    <SOURCES>
++      <root url="jar://C:/JavaPlugin/mavenrepository/org/antlr/antlr4-runtime/4.5.1-1/antlr4-runtime-4.5.1-1-sources.jar!/" />
++    </SOURCES>
++  </library>
++</component>
+\ No newline at end of file
+Index: microcloud-security/.idea/libraries/Maven__com_github_jknack_handlebars_4_0_6.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- microcloud-security/.idea/libraries/Maven__com_github_jknack_handlebars_4_0_6.xml	(revision )
++++ microcloud-security/.idea/libraries/Maven__com_github_jknack_handlebars_4_0_6.xml	(revision )
+@@ -0,0 +1,13 @@
++<component name="libraryTable">
++  <library name="Maven: com.github.jknack:handlebars:4.0.6">
++    <CLASSES>
++      <root url="jar://C:/JavaPlugin/mavenrepository/com/github/jknack/handlebars/4.0.6/handlebars-4.0.6.jar!/" />
++    </CLASSES>
++    <JAVADOC>
++      <root url="jar://C:/JavaPlugin/mavenrepository/com/github/jknack/handlebars/4.0.6/handlebars-4.0.6-javadoc.jar!/" />
++    </JAVADOC>
++    <SOURCES>
++      <root url="jar://C:/JavaPlugin/mavenrepository/com/github/jknack/handlebars/4.0.6/handlebars-4.0.6-sources.jar!/" />
++    </SOURCES>
++  </library>
++</component>
+\ No newline at end of file
+Index: microcloud-security/.idea/libraries/Maven__org_eclipse_jetty_jetty_io_9_4_6_v20170531.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- microcloud-security/.idea/libraries/Maven__org_eclipse_jetty_jetty_io_9_4_6_v20170531.xml	(revision )
++++ microcloud-security/.idea/libraries/Maven__org_eclipse_jetty_jetty_io_9_4_6_v20170531.xml	(revision )
+@@ -0,0 +1,13 @@
++<component name="libraryTable">
++  <library name="Maven: org.eclipse.jetty:jetty-io:9.4.6.v20170531">
++    <CLASSES>
++      <root url="jar://C:/JavaPlugin/mavenrepository/org/eclipse/jetty/jetty-io/9.4.6.v20170531/jetty-io-9.4.6.v20170531.jar!/" />
++    </CLASSES>
++    <JAVADOC>
++      <root url="jar://C:/JavaPlugin/mavenrepository/org/eclipse/jetty/jetty-io/9.4.6.v20170531/jetty-io-9.4.6.v20170531-javadoc.jar!/" />
++    </JAVADOC>
++    <SOURCES>
++      <root url="jar://C:/JavaPlugin/mavenrepository/org/eclipse/jetty/jetty-io/9.4.6.v20170531/jetty-io-9.4.6.v20170531-sources.jar!/" />
++    </SOURCES>
++  </library>
++</component>
+\ No newline at end of file
+Index: microcloud-security/.idea/libraries/Maven__com_github_jknack_handlebars_helpers_4_0_6.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- microcloud-security/.idea/libraries/Maven__com_github_jknack_handlebars_helpers_4_0_6.xml	(revision )
++++ microcloud-security/.idea/libraries/Maven__com_github_jknack_handlebars_helpers_4_0_6.xml	(revision )
+@@ -0,0 +1,13 @@
++<component name="libraryTable">
++  <library name="Maven: com.github.jknack:handlebars-helpers:4.0.6">
++    <CLASSES>
++      <root url="jar://C:/JavaPlugin/mavenrepository/com/github/jknack/handlebars-helpers/4.0.6/handlebars-helpers-4.0.6.jar!/" />
++    </CLASSES>
++    <JAVADOC>
++      <root url="jar://C:/JavaPlugin/mavenrepository/com/github/jknack/handlebars-helpers/4.0.6/handlebars-helpers-4.0.6-javadoc.jar!/" />
++    </JAVADOC>
++    <SOURCES>
++      <root url="jar://C:/JavaPlugin/mavenrepository/com/github/jknack/handlebars-helpers/4.0.6/handlebars-helpers-4.0.6-sources.jar!/" />
++    </SOURCES>
++  </library>
++</component>
+\ No newline at end of file
+Index: microcloud-security/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_5.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- microcloud-security/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_5.xml	(revision )
++++ microcloud-security/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_5.xml	(revision )
+@@ -0,0 +1,13 @@
++<component name="libraryTable">
++  <library name="Maven: org.apache.commons:commons-lang3:3.5">
++    <CLASSES>
++      <root url="jar://C:/JavaPlugin/mavenrepository/org/apache/commons/commons-lang3/3.5/commons-lang3-3.5.jar!/" />
++    </CLASSES>
++    <JAVADOC>
++      <root url="jar://C:/JavaPlugin/mavenrepository/org/apache/commons/commons-lang3/3.5/commons-lang3-3.5-javadoc.jar!/" />
++    </JAVADOC>
++    <SOURCES>
++      <root url="jar://C:/JavaPlugin/mavenrepository/org/apache/commons/commons-lang3/3.5/commons-lang3-3.5-sources.jar!/" />
++    </SOURCES>
++  </library>
++</component>
+\ No newline at end of file
+Index: microcloud-security/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_5_3.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- microcloud-security/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_5_3.xml	(revision )
++++ microcloud-security/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_5_3.xml	(revision )
+@@ -0,0 +1,13 @@
++<component name="libraryTable">
++  <library name="Maven: org.apache.httpcomponents:httpclient:4.5.3">
++    <CLASSES>
++      <root url="jar://C:/JavaPlugin/mavenrepository/org/apache/httpcomponents/httpclient/4.5.3/httpclient-4.5.3.jar!/" />
++    </CLASSES>
++    <JAVADOC>
++      <root url="jar://C:/JavaPlugin/mavenrepository/org/apache/httpcomponents/httpclient/4.5.3/httpclient-4.5.3-javadoc.jar!/" />
++    </JAVADOC>
++    <SOURCES>
++      <root url="jar://C:/JavaPlugin/mavenrepository/org/apache/httpcomponents/httpclient/4.5.3/httpclient-4.5.3-sources.jar!/" />
++    </SOURCES>
++  </library>
++</component>
+\ No newline at end of file
