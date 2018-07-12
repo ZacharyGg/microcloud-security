@@ -3,6 +3,8 @@ package cn.hlxd.security.dto;/**
  * @Date 2018/7/11 20:40
  */
 
+import io.swagger.annotations.ApiModelProperty;
+
 /**
  * Created with IntelliJ IDEA.
  * @Program：microcloud-security
@@ -13,8 +15,12 @@ package cn.hlxd.security.dto;/**
  **/
 
 public class UserQueryCondition {
+
+    @ApiModelProperty(value = "用户名称")
     private String username;
+    @ApiModelProperty(value = "年龄起始")
     private int age;
+    @ApiModelProperty(value = "年龄结束")
     private int ageTo;
     private String xxx;
 

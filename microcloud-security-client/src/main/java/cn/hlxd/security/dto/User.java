@@ -3,6 +3,13 @@ package cn.hlxd.security.dto;/**
  * @Date 2018/7/11 20:28
  */
 
+import cn.hlxd.security.validator.MyConstraint;
+import com.fasterxml.jackson.annotation.JsonView;
+import org.hibernate.validator.constraints.NotBlank;
+
+import javax.validation.constraints.Past;
+import java.util.Date;
+
 /**
  * Created with IntelliJ IDEA.
  * @Program：microcloud-security
@@ -14,9 +21,36 @@ package cn.hlxd.security.dto;/**
 
 public class User {
 
+    public interface UserSimpleView{};
+    public interface UserDetailView extends UserSimpleView{};
+
+    private String id;
+
+    @JsonView(UserSimpleView.class)
+    public String getId() {
+        return id;
+    }
+
+    public void setId(String id) {
+        this.id = id;
+    }
+
+    @MyConstraint(message = "这是一个自定义的校验测试注解")
     private String username;
+    @NotBlank(message = "密码不能为空")
     private String password;
 
+    public Date getBirthday() {
+        return birthday;
+    }
+
+    public void setBirthday(Date birthday) {
+        this.birthday = birthday;
+    }
+
+    @Past(message = "生日必须是过去时间")
+    private Date birthday;
+    @JsonView(UserSimpleView.class)
     public String getUsername() {
         return username;
     }
@@ -25,6 +59,7 @@ public class User {
         this.username = username;
     }
 
+    @JsonView({UserDetailView.class})
     public String getPassword() {
         return password;
     }
@@ -32,4 +67,6 @@ public class User {
     public void setPassword(String password) {
         this.password = password;
     }
+
+
 }
